@@ -1,0 +1,161 @@
+html{
+    overflow: auto;
+    scroll-behavior: smooth;
+}
+.clr{
+    clear: both;
+}
+body{
+    width: 100%;      
+    padding-left: 10px;
+    background-color: white;
+    
+    
+}
+
+#top{
+    height: 25px;
+    padding-left: 50px;   
+    line-height: 25px;
+    border-bottom: rgb(44, 43, 41) 1px solid ;
+    border-top:  rgb(44, 43, 41) 1px solid;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 10;
+}
+div#top ul li{
+    display: inline-block;
+    font-size: 15px;    
+    padding: 0px;
+}
+div#top ul{
+    margin: 0px;
+}
+
+#container{
+    position: relative;
+    height: 500px;
+    border: none;
+    margin-top: 20px;
+
+    
+}
+/*danh mục sản phẩm*/
+#category{
+    float: left;
+    width: 200px;
+    height: 350px;
+    position: fixed;
+    top: 120px;
+    left: 30px;
+}
+#content{
+    float: left;
+    width: 1000px;
+    position: absolute;
+    left: 240px;
+    
+}
+/*lo go trên*/
+#logo{
+    height: 30px;  
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    border-bottom: black solid 1px;
+}
+/* sản phẩm*/
+#products{
+    height: 800px;
+    overflow: auto;
+    padding-left: 10px;
+}
+.pro{
+    height: 120px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    display: inline-block;
+   z-index: 9;
+    
+}  
+
+
+/*quản cao*/ 
+#footer{
+    height: 40px;
+    width: 100%;   
+    background-color: cornsilk;
+}
+/*hình sản phẩm*/
+img{
+    height: 270px;
+    width: 220px;
+}
+li{
+    font-size: 17px;
+    list-style-type: none;
+    padding-top: 10px;
+   
+}
+/* categrory */
+.a{
+    text-decoration: none;    
+}
+/* định dạng cái logo bên trái*/
+div div ul li img{
+    width: 130px;
+    height: 130px;
+}
+
+div.tenao{
+    font-size: 15px;
+    width: 100px;
+    overflow: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+::-webkit-scrollbar {
+    display: none;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  a:link {
+    color: red;
+  } 
+
+  a:visited {
+    color: black;
+  }
+  
+
+  a:hover {
+    color: hotpink;
+  }
+  
+  a:active {
+    color: blue;
+  }
