@@ -3,6 +3,7 @@ body{
     width: 100%;
     position: relative;
 }
+
 th, td{
     border-bottom: 1px solid black;
 }
@@ -30,12 +31,19 @@ tfoot tr td{
 
 /**/
 .button {
+    padding: 12px 24px;
     background-color: white;
     color: black;
     border: 2px solid #555555;
-  }
+    }
   
 .button:hover {
     background-color: #555555;
     color: white;
+  }
+  #btn{
+      position: absolute;
+      bottom: 150px;
+      right: 150px;
+
   }
