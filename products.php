@@ -46,7 +46,7 @@
                          <div class="img-pro" >
                             <br>
                                 <a href="#">
-                                  <img src="dvrk.png" alt="#"> 
+                                  <img src="img/ktpm.png" alt="#"> 
                                 </a>   
                             <br>
                          </div> 

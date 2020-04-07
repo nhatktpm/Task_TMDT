@@ -39,7 +39,7 @@
         <div id="category">
             <ul>
                 <li> <a href="#">                    
-                        <img src="ktpm.png" alt="aaa">                    
+                        <img src="img/ktpm.png" alt="aaa">                    
                     </a>
                 </li>
                 <br>
@@ -93,7 +93,7 @@
             <ul>
                 <div class="bot" >
                     <li>
-                        <img src="hoantien.png" alt="hinhloi">
+                        <img src="img/hoantien.png" alt="hinhloi">
                      </li>
                     <span class="pan">Hoàn Tiền</span>
                     <div class="clr"></div>                    
@@ -102,7 +102,7 @@
 
                 <div class="bot">
                     <li>
-                        <img src="vanchuyen.png" alt="hinhloi">
+                        <img src="img/vanchuyen.png" alt="hinhloi">
                      </li>                     
                     <span class="pan">Miễn Phí </span>
                     <div class="clr"></div>                    
@@ -111,7 +111,7 @@
 
                 <div class="bot">
                     <li>
-                        <img src="hoi.png" alt="hinhloi">
+                        <img src="img/hoi.png" alt="hinhloi">
                      </li>
                     <span class="pan">Tư Vấn</span>
                     <div class="clr"></div>                    
